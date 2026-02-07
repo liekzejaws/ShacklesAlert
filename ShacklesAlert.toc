@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: ShacklesAlert
+## Notes: On-screen alerts for Shackles of the Legion and Karazhan trash debuffs.
+## Version: 1.4
+## Author: Jars <Thunder Ale Brewing Co.>
+## X-Category: Boss Encounters
+## X-Website: https://github.com/liekzejaws/ShacklesAlert
+## X-License: GPL v2
+ShacklesAlert.lua
